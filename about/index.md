@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team
-tags: [about, team, Flessy, developers]
+tags: [Flessy, about, team, developers]
 date: 2018-02-17
 comments: false
 ---
